@@ -1,3 +1,6 @@
+/*
+*	Author: Muaz Duran
+*/
 #include <stdio.h>
 #include <stdlib.h>
 

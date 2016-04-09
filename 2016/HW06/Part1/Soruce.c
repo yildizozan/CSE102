@@ -1,3 +1,6 @@
+/*
+*	Author: Ezgi Kotan
+*/
 #include <stdio.h>
 
 void freg(char *str, int *fr);
